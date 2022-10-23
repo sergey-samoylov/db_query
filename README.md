@@ -1,6 +1,6 @@
 # db_query
 Data base query with Python script
-
+<pre>
 :::::::::  :::::::::              ::::::::   :::    ::: :::::::::: :::::::::  :::   :::
 :+:    :+: :+:    :+:            :+:    :+:  :+:    :+: :+:        :+:    :+: :+:   :+:
 +:+    +:+ +:+    +:+            +:+    +:+  +:+    +:+ +:+        +:+    +:+  +:+ +:+
@@ -8,7 +8,7 @@ Data base query with Python script
 +#+    +#+ +#+    +#+            +#+  # +#+  +#+    +#+ +#+        +#+    +#+    +#+
 #+#    #+# #+#    #+#            #+#   +#+   #+#    #+# #+#        #+#    #+#    #+#
 #########  #########  ##########  ###### ###  ########  ########## ###    ###    ###
-
+</pre>
 - simple script to identify SQLite3 files in a directory
 - connect to a chosen database
 - list all tables in that database
